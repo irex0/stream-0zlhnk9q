@@ -4,3 +4,5 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:5.633333,
 playlist0.ts
+#EXTINF:4.933333,
+playlist1.ts
